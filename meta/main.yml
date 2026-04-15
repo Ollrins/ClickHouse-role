@@ -1,0 +1,13 @@
+---
+galaxy_info:
+  author: "Ollrins"
+  description: "ClickHouse role - installs from RPM packages"
+  company: "Netology"
+  license: "MIT"
+  min_ansible_version: "2.9"
+  platforms:
+    - name: "Rocky"
+      versions: ["8", "9"]
+  galaxy_tags:
+    - clickhouse
+dependencies: []
